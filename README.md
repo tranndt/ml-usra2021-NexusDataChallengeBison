@@ -1,6 +1,6 @@
 # nexus-challenge-2021-bison
 
-## Due-date: May 2nd, 2021
+## Due-date: May 14th, 2021
 
 #### May 2nd, 2021
 - Progress:
