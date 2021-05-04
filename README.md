@@ -14,7 +14,6 @@
 -   Imporve the scheduling
     - can we departure early? how much earlier? what is the criteria?
     - balancing the inbound and outbound for every 3-4days?
-    - 
 Target:
 - draw the graph, how bad/good it is regarding balance.
 - how to flat the graph
