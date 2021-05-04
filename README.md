@@ -17,3 +17,5 @@
 Target:
 - draw the graph, how bad/good it is regarding balance.
 - how to flat the graph
+- 
+- Meeting time changed to 8pm
