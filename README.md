@@ -33,6 +33,8 @@ Target:
   - Load balancing algorithm:
     - Constraints: Look for candidates
     - Treating each day as a node with the imbalance as the value. Has edges to the day before and after.
+- Thoughts:
+  - After implementing the fundamental requirements. We can think of the rows that we have eliminated - those are not related to 'PQ' - can we use those to improve our algorithm?
 
 
 
