@@ -35,7 +35,7 @@ Target:
     - Treating each day as a node with the imbalance as the value. Has edges to the day before and after.
 - Thoughts:
   - After implementing the fundamental requirements. We can think of the rows that we have eliminated - those are not related to 'PQ' - can we use those to improve our algorithm?
-  - For now, we clustered all the regions contains 'PQ' as a same region, can we narrow down more? e.g., 'PQ2S' and 'PQMON' as different region.
+  - For now, we clustered all the regions contains 'PQ' as a same region, can we narrow down more? e.g., 'PQ2S' and 'PQMON' as different regions.
 
 
 
