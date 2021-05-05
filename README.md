@@ -27,4 +27,14 @@ Target:
   - Flexibility for trailer class: HEATER/REFFER/etc can be used as DRY if necessary
   - Start Date and Completion Dates are just estimate. If the date is unrealisticly long, we can shorten it (via some mechanism i.e >14 days)
   - Another layer of constraint: Initial number of drivers (~50). Can track along with the cumulative imbalance. Driver from incoming trailers can be factored into our calculation
-- A method that figure out how dense our disturibution is.
+- Todo:
+  - Clean data
+  - Come up with pseudo code
+  - A method that figure out how dense our disturibution is/ how to measure
+  - Load balancing algorithm:
+    - Constraints: Look for candidates
+    - Treating each day as a node with the imbalance as the value. Has edges to the day before and after.
+
+
+
+
