@@ -37,6 +37,13 @@ Target:
   - After implementing the fundamental requirements. We can think of the rows that we have eliminated - those are not related to 'PQ' - can we use those to improve our algorithm?
   - For now, we clustered all the regions contains 'PQ' as a same region, can we narrow down more? e.g., 'PQ2S' and 'PQMON' as different regions.
 
-
+#### May 5th,2021
+- Evaluate how good our algorithm is:
+  - Calculating the std (mean = 0) / Mean-squared error 
+     - Be careful with the outlier
+  - Visualize on a histogram
+- To do: 
+  - Modify the pseudocode if needed (easier to understand)
+  - Implement greedy-approach pseudocode
 
 
