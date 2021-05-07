@@ -47,3 +47,9 @@ Target:
   - Implement greedy-approach pseudocode
 
 
+#### May 6th, 2021
+- To do:
+  - Fixing bugs, visualize the result -> try to work on the basic dataset first (without the trailer_class)
+  - Applying the trailer_class to the algorithm (working with the new dataset)
+- Goal:
+  - Finish fixing bugs and working on basic dataset
