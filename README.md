@@ -53,3 +53,18 @@ Target:
   - Applying the trailer_class to the algorithm (working with the new dataset)
 - Goal:
   - Finish fixing bugs and working on basic dataset
+
+
+#### May 7th, 2021
+- To do:
+  - Finalize codes
+  - Fix the bugs related to the starting date
+  - Printing statements (add forecasting part)
+- Goal:
+  - Improving algorithms?
+  - Proving this greedy algorithm (or how close it is to the optimal solution)  (*)
+    - Start off: Think about the assumptions? What can be assumptions in the real-world (24hr)? 
+  - Preparing at least 5-pages paper
+    - a page for data cleaning/ data preprocessing
+    - page for (*)
+    - and so on ... 
