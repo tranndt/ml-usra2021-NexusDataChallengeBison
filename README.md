@@ -68,3 +68,10 @@ Target:
     - a page for data cleaning/ data preprocessing
     - page for (*)
     - and so on ... 
+
+
+#### May 8th
+- To do:
+  - Implement the waiting list feature:
+    - Implement as a seperate list of its own, don't merge with candidate  orders. Once we finish with the k_local_average reordering, then we can plug the waiting list entries in wherever needed.
+  - Implement the k_local_average code itself
