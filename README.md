@@ -1,6 +1,6 @@
 # Bison Transport Nexus Data Challenge 2021
 
-**Our solution awarded 1st Prize** in the Bison Transport Nexus Data Challenge 2021.
+**Our solution was awarded 1st Prize** in the Bison Transport Nexus Data Challenge 2021.
 
 ---
 
